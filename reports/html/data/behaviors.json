@@ -1,0 +1,53 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码",
+    "uid" : "91c50d8bf23cec09",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1568280831435,
+      "stop" : 1568280831435,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "注册接口",
+    "uid" : "187a979bc68fe90a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1568281075095,
+      "stop" : 1568281075353,
+      "duration" : 258
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "登录接口",
+    "uid" : "15be55b2cca9aeff",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1568281075359,
+      "stop" : 1568281075463,
+      "duration" : 104
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "全字段正常流",
+    "uid" : "18c4abfc985437a8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1568281075468,
+      "stop" : 1568281075582,
+      "duration" : 114
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

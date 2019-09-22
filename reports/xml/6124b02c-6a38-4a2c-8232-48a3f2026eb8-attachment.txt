@@ -1,0 +1,7 @@
+---------------响应----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 12 Sep 2019 09:34:16 GMT
+
+{"code":2000,"message":"注册成功；用户ID:2677","data":{"userName":"stri74699","accoutId":2676,"cstId":2698,"userId":2677}}

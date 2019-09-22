@@ -1,0 +1,41 @@
+[ {
+  "uid" : "187a979bc68fe90a",
+  "name" : "注册接口",
+  "time" : {
+    "start" : 1568281075095,
+    "stop" : 1568281075353,
+    "duration" : 258
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91c50d8bf23cec09",
+  "name" : "修改密码",
+  "time" : {
+    "start" : 1568280831435,
+    "stop" : 1568280831435,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "15be55b2cca9aeff",
+  "name" : "登录接口",
+  "time" : {
+    "start" : 1568281075359,
+    "stop" : 1568281075463,
+    "duration" : 104
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18c4abfc985437a8",
+  "name" : "全字段正常流",
+  "time" : {
+    "start" : 1568281075468,
+    "stop" : 1568281075582,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

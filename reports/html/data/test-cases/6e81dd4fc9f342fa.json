@@ -1,0 +1,98 @@
+{
+  "uid" : "6e81dd4fc9f342fa",
+  "name" : "注册接口",
+  "fullName" : "test_case.jie_kou_liucheng#test_change_pwd_var",
+  "historyId" : "55b350ab3ec83554fd9ef529aa0758f4",
+  "time" : {
+    "start" : 1568280444605,
+    "stop" : 1568280444807,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "19ca6e2f047e52f6",
+      "name" : "请求",
+      "source" : "19ca6e2f047e52f6.txt",
+      "type" : "text/plain",
+      "size" : 318
+    }, {
+      "uid" : "f3a41e35abdc67db",
+      "name" : "响应",
+      "source" : "f3a41e35abdc67db.txt",
+      "type" : "text/plain",
+      "size" : 280
+    }, {
+      "uid" : "a13f8831b7684eef",
+      "name" : "响应状态码断言",
+      "source" : "a13f8831b7684eef.txt",
+      "type" : "text/plain",
+      "size" : 33
+    }, {
+      "uid" : "f4a5c1fcd5238f96",
+      "name" : "响应code",
+      "source" : "f4a5c1fcd5238f96.txt",
+      "type" : "text/plain",
+      "size" : 35
+    }, {
+      "uid" : "f52717c58529afca",
+      "name" : "log",
+      "source" : "f52717c58529afca.txt",
+      "type" : "text/plain",
+      "size" : 1334
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "jie_kou_liucheng"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190805NAY"
+  }, {
+    "name" : "thread",
+    "value" : "5580-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.jie_kou_liucheng"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "6e81dd4fc9f342fa.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

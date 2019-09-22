@@ -1,0 +1,11 @@
+---------------请求-----------------
+http://api.yansl.com:8084/user/changepwd
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTY4MjgyOTAwMzg3LCJ1c2VySWQiOjI2NzksInVzZXJOYW1lIjoic3RwNzQ2OTkifQ==
+Content-Length: 97
+Content-Type: application/json
+
+b'{"newPwd": "striy33223", "oldPwd": "striy3322", "reNewPwd": "striy33223", "userName": "stp74699"}'

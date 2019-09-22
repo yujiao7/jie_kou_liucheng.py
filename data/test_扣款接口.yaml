@@ -1,0 +1,12 @@
+- data: null
+  expect: '2000'
+  headers: {}
+  json:
+    accountName: str3536
+    changeMoney: 500
+  method: 1
+  params: null
+  status_code: 200
+  test_case: 正常流扣款为500
+  url: /acc/charge
+

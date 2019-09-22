@@ -1,0 +1,12 @@
+- data: null
+  expect: '2000'
+  headers: {}
+  json:
+    accountName: str3536
+    changeMoney: 100000
+  method: 1
+  params: null
+  status_code: 200
+  test_case: 用例描述10万
+  url: /acc/recharge
+

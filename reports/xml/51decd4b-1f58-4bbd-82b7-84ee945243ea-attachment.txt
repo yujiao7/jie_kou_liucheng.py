@@ -1,0 +1,19 @@
+INFO     tools.log_tool:log_tool.py:33 ----请求用时: 105.316 秒数
+INFO     tools.log_tool:log_tool.py:33 ---------------请求-----------------
+                                       http://api.yansl.com:8084/user/changepwd
+                                       User-Agent: python-requests/2.22.0
+                                       Accept-Encoding: gzip, deflate
+                                       Accept: */*
+                                       Connection: keep-alive
+                                       token: eyJ0aW1lT3V0IjoxNTY4MjgyOTAwMzg3LCJ1c2VySWQiOjI2NzksInVzZXJOYW1lIjoic3RwNzQ2OTkifQ==
+                                       Content-Length: 97
+                                       Content-Type: application/json
+                                       
+                                       b'{"newPwd": "striy33223", "oldPwd": "striy3322", "reNewPwd": "striy33223", "userName": "stp74699"}'
+INFO     tools.log_tool:log_tool.py:33 ---------------响应----------------
+                                       200
+                                       Content-Type: application/json;charset=UTF-8
+                                       Transfer-Encoding: chunked
+                                       Date: Thu, 12 Sep 2019 09:38:20 GMT
+                                       
+                                       {"code":2000,"message":"修改成功1","data":""}

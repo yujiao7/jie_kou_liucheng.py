@@ -1,0 +1,18 @@
+INFO     tools.log_tool:log_tool.py:33 ----请求用时: 97.29 秒数
+INFO     tools.log_tool:log_tool.py:33 ---------------请求-----------------
+                                       http://api.yansl.com:8084/login
+                                       User-Agent: python-requests/2.22.0
+                                       Accept-Encoding: gzip, deflate
+                                       Accept: */*
+                                       Connection: keep-alive
+                                       Content-Length: 45
+                                       Content-Type: application/json
+                                       
+                                       b'{"pwd": "striy3322", "userName": "striy3358"}'
+INFO     tools.log_tool:log_tool.py:33 ---------------响应----------------
+                                       200
+                                       Content-Type: application/json;charset=UTF-8
+                                       Transfer-Encoding: chunked
+                                       Date: Thu, 12 Sep 2019 09:25:09 GMT
+                                       
+                                       {"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTY4MjgyMTA5ODY3LCJ1c2VySWQiOjI2NjIsInVzZXJOYW1lIjoic3RyaXkzMzU4In0=","userName":"striy3358"}}
